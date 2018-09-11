@@ -37,5 +37,3 @@ If you want to fetch data by timestamp
   http://localhost:3000/api/v1/twitter_feeds?consumer_key="YOUR_CONSUMER_KEY"&consumer_secret="YOUR_CONSUMER_SECRET"&access_token="YOUR_ACCESS_TOKEN"&access_token_secret="YOUR_ACCESS_SECRET"&start_date="StartDate"&end_date="EndDate"
 
   Date format should be "2018-09-11"
-
-  this return result between the timestamp
